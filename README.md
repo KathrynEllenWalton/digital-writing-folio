@@ -1,3 +1,3 @@
 # digital-writing-folio
-# readings
+# [readings]
 ### week 1

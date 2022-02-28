@@ -25,4 +25,5 @@ I listen to music to find inspiration and I look up the thesaurus alot. I ask go
 #### How do these tools shape the way you write (e.g., constrains the way you write or facilitate your writing)?
 
 I can type from memory and therefore able to focus on the words on screen. I like to feel confident as I type. When I brainstorm I like to use paper and pen. 
+I use Final Draft for scripts.
 

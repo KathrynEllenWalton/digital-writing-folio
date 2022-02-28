@@ -1,0 +1,27 @@
+# Exercises
+
+## Week 1
+
+- [x] Create a GitHub account
+- [x] Do the GitHub ' Hello World'
+- [x] Add a repository for the folio
+- [x] What types of writing do you do (ie fiction, nonfiction, poetry, other)?
+- [x] What tools do i use to write with?
+- [x] How do these tools shape the way you write (e.g., constrains the way you write or facilitate your writing)?
+
+### Questions
+
+### What types of writing do you do (ie fiction, nonfiction, poetry, other)?
+
+I enjoy both fiction and nonfiction. Recently, I have ]leaned in to creative non-fiction. I have a softspot for poetry and am inspired by spoken word. 
+
+### What tools (or techniques) do you use to write?
+
+
+I use Word. I sit at my desk when I need to read and concentrate. I sit on the couch in front of the TV when I need noise to relax my mind and become creative. 
+I use my notes on my android in bed when I feel like writing or taking extended notes. I use voice memo or notes when I am in the shower.
+
+#### How do these tools shape the way you write (e.g., constrains the way you write or facilitate your writing)?
+
+I can type from memory and therefore able to focus on the words on screen. I like to feel confident as i type. When I brainstorm I liek to use paper and pen. 
+

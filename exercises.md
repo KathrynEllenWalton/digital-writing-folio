@@ -23,5 +23,5 @@ I use my notes on my android in bed when I feel like writing or taking extended 
 
 #### How do these tools shape the way you write (e.g., constrains the way you write or facilitate your writing)?
 
-I can type from memory and therefore able to focus on the words on screen. I like to feel confident as i type. When I brainstorm I liek to use paper and pen. 
+I can type from memory and therefore able to focus on the words on screen. I like to feel confident as I type. When I brainstorm I like to use paper and pen. 
 

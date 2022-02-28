@@ -13,13 +13,14 @@
 
 ### What types of writing do you do (ie fiction, nonfiction, poetry, other)?
 
-I enjoy both fiction and nonfiction. Recently, I have ]leaned in to creative non-fiction. I have a softspot for poetry and am inspired by spoken word. 
+I enjoy both fiction and nonfiction. Recently, I have leaned in to creative non-fiction wanting to adapt my novel into a screenplay. I have a soft spot for poetry and am inspired by spoken word.
 
 ### What tools (or techniques) do you use to write?
 
 
 I use Word. I sit at my desk when I need to read and concentrate. I sit on the couch in front of the TV when I need noise to relax my mind and become creative. 
-I use my notes on my android in bed when I feel like writing or taking extended notes. I use voice memo or notes when I am in the shower.
+I use my notes on my android in bed when I feel like writing or taking extended notes. I use voice memo or notes when I am in the shower. 
+I listen to music to find inspiration and I look up the thesaurus alot. I ask google questions on how to spell words. 
 
 #### How do these tools shape the way you write (e.g., constrains the way you write or facilitate your writing)?
 

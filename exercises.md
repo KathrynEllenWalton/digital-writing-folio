@@ -28,12 +28,15 @@ I can type from memory and therefore able to focus on the words on screen. I lik
 I use Final Draft for scripts.
 
 ## Week 2
+
 - [x] Electronic Literature Collection (https://collection.eliterature.org) 
 
-Research for Case Study # 1
+Research for Case Study 1
 
 SOLILOQUY - Kenneth Goldsmith, https://collection.eliterature.org/1/works/goldsmith__soliloquy/03/03_07.html#
+
 THE DREAMTIME OF LETTERS - Brian Kim Stefans, https://collection.eliterature.org/1/works/stefans__the_dreamlife_of_letters/image_16.htm
+
 BASHO'S FROGGER & JABBER - Neil Hennessy, https://collection.eliterature.org/2/works/hennessy_frogger_jabber.html
 
 

@@ -47,4 +47,4 @@ Electronic literature differs from the printed form in ways of being able to inf
 
 ### what are some of the qualities of electronic literature?
 
-Some of the qualities to electronic literature // cyberliterature are the endless possibilities to transform the works of authors by using multipe sources, neologisms, inventions of narratives, created structures that are created to produce continuous change in text at a click. 
+Some of the qualities to electronic literature // cyberliterature are the endless possibilities to transform the works of authors by using multipe sources, neologisms, inventions of narratives, able to create structures that are produce to continuously change in text at a click. 

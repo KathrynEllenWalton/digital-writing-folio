@@ -43,8 +43,8 @@ BASHO'S FROGGER & JABBER - Neil Hennessy, https://collection.eliterature.org/2/w
 
 ### How is electronic literature different from print literature?
 
-Electronic literature differs from the printed form in ways of being able to infuse sophisticated texts and images thats creates a poetic narrative in a digital element that becomes interactive for the reader and thus the work itself is considered 'digital born'. 
+Electronic literature differs from the printed form in ways of being able to infuse sophisticated texts and/or images thats creates a poetic narrative in a digital element that becomes interactive for the reader and thus the work itself is considered 'digital born'. 
 
 ### what are some of the qualities of electronic literature?
 
-Some of the qualities to electronic literature // cyberliterature are the endless possibilities to transform the works of authors by using multipe sources, neologisms, inventions of narratives, able to create structures that are produce to continuously change in text at a click. 
+Some of the qualities to electronic literature // cyberliterature are the endless possibilities to transform the works of authors by using multipe sources, neologisms, inventions of narratives, able to create structures that are produce to continuously change in text // image at a click. 

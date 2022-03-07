@@ -41,7 +41,7 @@ BASHO'S FROGGER & JABBER - Neil Hennessy, https://collection.eliterature.org/2/w
 
 - [x] Defining Electronic Literature
 
-## How is electronic literature different from print literature?
+### How is electronic literature different from print literature?
 
 Electronic literature differs from the printed form in ways of being able to infuse sophisticated texts and images thats creates a poetic narrative in a digital element that becomes interactive for the reader and thus the work itself is considered 'digital born'. 
 

@@ -51,6 +51,8 @@ Some of the qualities to electronic literature // cyberliterature are the endles
 
 - [x] TAROKO GORGE(s)
 
+https://nickm.com/taroko_gorge/takei_george/
+
 ### What aspects of the remix are the same?
 
 ### What aspects of the remix are different?

@@ -39,6 +39,12 @@ THE DREAMTIME OF LETTERS - Brian Kim Stefans, https://collection.eliterature.org
 
 BASHO'S FROGGER & JABBER - Neil Hennessy, https://collection.eliterature.org/2/works/hennessy_frogger_jabber.html
 
+- [x] Defining Electronic Literature
 
+## How is electronic literature different from print literature?
 
+Electronic literature differs from the printed form in ways of being able to infuse sophisticated texts and images thats creates a poetic narrative in a digital element that becomes interactive for the reader and thus the work itself is considered 'digital born'. 
 
+### what are some of the qualities of electronic literature?
+
+Some of the qualities to electronic literature // cyberliterature are the endless possibilities to transform the works of authors by using multipe sources, neologisms, inventions of narratives, created structures that are created to produce continuous change in text at a click. 

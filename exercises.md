@@ -57,9 +57,9 @@ https://nickm.com/taroko_gorge/takei_george/
 The pace of the movement remains the same. 
 
 ### What aspects of the remix are different?
-Background and text are in yellow and red instead of TG green & pale pink text. 
+Background and text are in yellow and red instead of TG green & pale pink text.
 In TG, each line host a different number of words creating the visual of a poem on page. 
-MS piece speaks on political issue whereas TG words are visually appealing. 
-
+MS piece speaks on political issue, sounding like headlines, whereas TG words read more as poetry.
+MS uses alot more words than TG
 ### Is the remix successful (why or why not)?
 I persoanlly found this piece to be more interesting to read due to a brighter colour on the page, along with a 4 - 6 words per line, creating more structure as prose instead of poetry.  

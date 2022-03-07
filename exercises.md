@@ -48,3 +48,11 @@ Electronic literature differs from the printed form in ways of being able to inf
 ### what are some of the qualities of electronic literature?
 
 Some of the qualities to electronic literature // cyberliterature are the endless possibilities to transform the works of authors by using multipe sources, neologisms, inventions of narratives, able to create structures that are produce to continuously change in text // image at a click. 
+
+- [x] TAROKO GORGE(s)
+
+### What aspects of the remix are the same?
+
+### What aspects of the remix are different?
+
+### Is the remix successful (why or why not)?

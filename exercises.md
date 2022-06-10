@@ -64,6 +64,12 @@ MS uses alot more words than TG
 ### Is the remix successful (why or why not)?
 I persoanlly found this piece to be more interesting to read due to a brighter colour on the page, along with a 4 - 6 words per line, creating more structure as prose instead of poetry.  
 
+### Reflection:
+- [x] I thoroughly enjoyed reading elit.org and seeing for the first time what digital writing actually is. 
+As much as I like the visually, I feel the aesthetics are purposely designed to be dated, prehaps a homage to when the internet first came about. 
+- [x] To make a dadaist poem, at first I didn't understand the concept but seeing other people's work I soon gathered what we needed to do. 
+- [ ] I found I could follow the instructions easily for this task. 
+
 ## Week 5
 ### Writing Hypertext Fiction
 - [x] How is it different from fiction
@@ -71,3 +77,12 @@ I persoanlly found this piece to be more interesting to read due to a brighter c
 - [x] How do you plan fiction?
 - [x] How could you plan hypertext fiction?
 - [x] Check Twine Cookbook 
+
+### Reflection:
+- [x] Learning about HTML, JavaScript and CCS was something I have never considered before entering this class. 
+- [ ] At the moment, I don't really undertsand what is happening, but I feel if I can keep up with class instructions then It will be fine. 
+- [x] I tried Twine. I like the concept. I mostly like the grid papaer as a background for the program. 
+
+## Week 6
+### Reflection:
+[x] I worked on twine - developing my story about a group of witches. I as introduced to Bitsy and Inform, both i enjoyed, especially Bitsy. I felt inform reminded me of a mystery/crime boardgame from my childhood. 
